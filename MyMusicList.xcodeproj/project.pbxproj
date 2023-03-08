@@ -45,6 +45,7 @@
 		7A00683A29B8098C0055E86D /* MyMusicListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicListUITests.swift; sourceTree = "<group>"; };
 		7A00683C29B8098C0055E86D /* MyMusicListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		7A00684929B8099E0055E86D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		7A00684A29B80A900055E86D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		7A00681329B8098C0055E86D = {
 			isa = PBXGroup;
 			children = (
+				7A00684A29B80A900055E86D /* README.md */,
 				7A00684929B8099E0055E86D /* .gitignore */,
 				7A00681E29B8098C0055E86D /* MyMusicList */,
 				7A00682F29B8098C0055E86D /* MyMusicListTests */,
